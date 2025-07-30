@@ -1,0 +1,15 @@
+Dataset: mnli-mm | Shot: 1 | Seed: 0
+dect acc: 0.6512
+------
+Average Accuracy over 1 seeds: 65.12%
+=========
+Dataset: mnli-mm | Shot: 1 | Seed: 0
+dect acc: 0.6513
+------
+Average Accuracy over 1 seeds: 65.13%
+=========
+Dataset: mnli-mm | Shot: 1 | Seed: 0
+dect acc: 0.6520
+------
+Average Accuracy over 1 seeds: 65.20%
+=========

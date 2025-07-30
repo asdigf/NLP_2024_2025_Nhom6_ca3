@@ -1,0 +1,10 @@
+Dataset: RTE | Shot: 5 | Seed: 0
+dect acc: 0.5776
+------
+Average Accuracy over 1 seeds: 57.76%
+=========
+Dataset: rte | Shot: 5 | Seed: 0
+dect acc: 0.5776
+------
+Average Accuracy over 1 seeds: 57.76%
+=========

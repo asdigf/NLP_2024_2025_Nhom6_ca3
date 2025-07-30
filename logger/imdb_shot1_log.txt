@@ -1,0 +1,175 @@
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.7092
+------
+Average Accuracy over 1 seeds: 70.92%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.7440
+------
+Average Accuracy over 1 seeds: 74.40%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.5356
+------
+Average Accuracy over 1 seeds: 53.56%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.6112
+------
+Average Accuracy over 1 seeds: 61.12%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.5160
+------
+Average Accuracy over 1 seeds: 51.60%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8756
+------
+Average Accuracy over 1 seeds: 87.56%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.4506
+------
+Average Accuracy over 1 seeds: 45.06%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8756
+------
+Average Accuracy over 1 seeds: 87.56%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.0404
+------
+Average Accuracy over 1 seeds: 4.04%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.9260
+------
+Average Accuracy over 1 seeds: 92.60%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.6503
+------
+Average Accuracy over 1 seeds: 65.03%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.6471
+------
+Average Accuracy over 1 seeds: 64.71%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.9260
+------
+Average Accuracy over 1 seeds: 92.60%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.9296
+------
+Average Accuracy over 1 seeds: 92.96%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.3600
+------
+Average Accuracy over 1 seeds: 36.00%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.4220
+------
+Average Accuracy over 1 seeds: 42.20%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.7868
+------
+Average Accuracy over 1 seeds: 78.68%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.7500
+------
+Average Accuracy over 1 seeds: 75.00%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8184
+------
+Average Accuracy over 1 seeds: 81.84%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8640
+------
+Average Accuracy over 1 seeds: 86.40%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.9016
+------
+Average Accuracy over 1 seeds: 90.16%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.6812
+------
+Average Accuracy over 1 seeds: 68.12%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8424
+------
+Average Accuracy over 1 seeds: 84.24%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.3548
+------
+Average Accuracy over 1 seeds: 35.48%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.7956
+------
+Average Accuracy over 1 seeds: 79.56%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.3684
+------
+Average Accuracy over 1 seeds: 36.84%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8640
+------
+Average Accuracy over 1 seeds: 86.40%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8184
+------
+Average Accuracy over 1 seeds: 81.84%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8397
+------
+Average Accuracy over 1 seeds: 83.97%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.7400
+------
+Average Accuracy over 1 seeds: 74.00%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8184
+------
+Average Accuracy over 1 seeds: 81.84%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8176
+------
+Average Accuracy over 1 seeds: 81.76%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.1824
+------
+Average Accuracy over 1 seeds: 18.24%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8644
+------
+Average Accuracy over 1 seeds: 86.44%
+=========
+Dataset: imdb | Shot: 1 | Seed: 0
+dect acc: 0.8397
+------
+Average Accuracy over 1 seeds: 83.97%
+=========

@@ -1,0 +1,20 @@
+Dataset: snli | Shot: 1 | Seed: 0
+dect acc: 0.6240
+------
+Average Accuracy over 1 seeds: 62.40%
+=========
+Dataset: snli | Shot: 1 | Seed: 0
+dect acc: 0.6278
+------
+Average Accuracy over 1 seeds: 62.78%
+=========
+Dataset: snli | Shot: 1 | Seed: 0
+dect acc: 0.6278
+------
+Average Accuracy over 1 seeds: 62.78%
+=========
+Dataset: snli | Shot: 1 | Seed: 0
+dect acc: 0.6270
+------
+Average Accuracy over 1 seeds: 62.70%
+=========

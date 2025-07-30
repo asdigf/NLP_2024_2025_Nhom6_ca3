@@ -1,0 +1,1 @@
+Classify the topic of the following news: {"placeholder":"text_a"} Topic: {"mask"}

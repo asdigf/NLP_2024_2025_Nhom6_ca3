@@ -1,0 +1,145 @@
+Dataset: RTE | Shot: 1 | Seed: 0
+dect acc: 0.5379
+------
+Average Accuracy over 1 seeds: 53.79%
+=========
+Dataset: RTE | Shot: 1 | Seed: 0
+dect acc: 0.5451
+------
+Average Accuracy over 1 seeds: 54.51%
+=========
+Dataset: RTE | Shot: 1 | Seed: 0
+dect acc: 0.5379
+------
+Average Accuracy over 1 seeds: 53.79%
+=========
+Dataset: RTE | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: RTE | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5957
+------
+Average Accuracy over 1 seeds: 59.57%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5993
+------
+Average Accuracy over 1 seeds: 59.93%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5993
+------
+Average Accuracy over 1 seeds: 59.93%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5993
+------
+Average Accuracy over 1 seeds: 59.93%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5957
+------
+Average Accuracy over 1 seeds: 59.57%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5957
+------
+Average Accuracy over 1 seeds: 59.57%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.4729
+------
+Average Accuracy over 1 seeds: 47.29%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5415
+------
+Average Accuracy over 1 seeds: 54.15%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5415
+------
+Average Accuracy over 1 seeds: 54.15%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: RTE | Shot: 1 | Seed: 0
+dect acc: 0.5185
+------
+Average Accuracy over 1 seeds: 51.85%
+=========
+Dataset: RTE | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: RTE | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5185
+------
+Average Accuracy over 1 seeds: 51.85%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.7037
+------
+Average Accuracy over 1 seeds: 70.37%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5668
+------
+Average Accuracy over 1 seeds: 56.68%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5668
+------
+Average Accuracy over 1 seeds: 56.68%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.5185
+------
+Average Accuracy over 1 seeds: 51.85%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.7037
+------
+Average Accuracy over 1 seeds: 70.37%
+=========
+Dataset: rte | Shot: 1 | Seed: 0
+dect acc: 0.6895
+------
+Average Accuracy over 1 seeds: 68.95%
+=========

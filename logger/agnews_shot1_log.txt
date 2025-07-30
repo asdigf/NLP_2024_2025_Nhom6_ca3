@@ -1,0 +1,135 @@
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.7564
+------
+Average Accuracy over 1 seeds: 75.64%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2842
+------
+Average Accuracy over 1 seeds: 28.42%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2500
+------
+Average Accuracy over 1 seeds: 25.00%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2500
+------
+Average Accuracy over 1 seeds: 25.00%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2500
+------
+Average Accuracy over 1 seeds: 25.00%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2788
+------
+Average Accuracy over 1 seeds: 27.88%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2788
+------
+Average Accuracy over 1 seeds: 27.88%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2839
+------
+Average Accuracy over 1 seeds: 28.39%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.7693
+------
+Average Accuracy over 1 seeds: 76.93%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2500
+------
+Average Accuracy over 1 seeds: 25.00%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.7716
+------
+Average Accuracy over 1 seeds: 77.16%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.6005
+------
+Average Accuracy over 1 seeds: 60.05%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.5803
+------
+Average Accuracy over 1 seeds: 58.03%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.7724
+------
+Average Accuracy over 1 seeds: 77.24%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.7724
+------
+Average Accuracy over 1 seeds: 77.24%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.7716
+------
+Average Accuracy over 1 seeds: 77.16%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2649
+------
+Average Accuracy over 1 seeds: 26.49%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2649
+------
+Average Accuracy over 1 seeds: 26.49%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2649
+------
+Average Accuracy over 1 seeds: 26.49%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2582
+------
+Average Accuracy over 1 seeds: 25.82%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2355
+------
+Average Accuracy over 1 seeds: 23.55%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2397
+------
+Average Accuracy over 1 seeds: 23.97%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2087
+------
+Average Accuracy over 1 seeds: 20.87%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2087
+------
+Average Accuracy over 1 seeds: 20.87%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2087
+------
+Average Accuracy over 1 seeds: 20.87%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.2087
+------
+Average Accuracy over 1 seeds: 20.87%
+=========
+Dataset: agnews | Shot: 1 | Seed: 0
+dect acc: 0.7934
+------
+Average Accuracy over 1 seeds: 79.34%
+=========

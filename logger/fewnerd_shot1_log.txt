@@ -1,0 +1,185 @@
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0755
+------
+Average Accuracy over 1 seeds: 7.55%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0727
+------
+Average Accuracy over 1 seeds: 7.27%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0727
+------
+Average Accuracy over 1 seeds: 7.27%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0175
+------
+Average Accuracy over 1 seeds: 1.75%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0211
+------
+Average Accuracy over 1 seeds: 2.11%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0136
+------
+Average Accuracy over 1 seeds: 1.36%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0136
+------
+Average Accuracy over 1 seeds: 1.36%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0151
+------
+Average Accuracy over 1 seeds: 1.51%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0143
+------
+Average Accuracy over 1 seeds: 1.43%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0173
+------
+Average Accuracy over 1 seeds: 1.73%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0136
+------
+Average Accuracy over 1 seeds: 1.36%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0390
+------
+Average Accuracy over 1 seeds: 3.90%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0395
+------
+Average Accuracy over 1 seeds: 3.95%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0165
+------
+Average Accuracy over 1 seeds: 1.65%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0165
+------
+Average Accuracy over 1 seeds: 1.65%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0158
+------
+Average Accuracy over 1 seeds: 1.58%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0069
+------
+Average Accuracy over 1 seeds: 0.69%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0731
+------
+Average Accuracy over 1 seeds: 7.31%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0757
+------
+Average Accuracy over 1 seeds: 7.57%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0690
+------
+Average Accuracy over 1 seeds: 6.90%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0079
+------
+Average Accuracy over 1 seeds: 0.79%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0445
+------
+Average Accuracy over 1 seeds: 4.45%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0207
+------
+Average Accuracy over 1 seeds: 2.07%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0697
+------
+Average Accuracy over 1 seeds: 6.97%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0570
+------
+Average Accuracy over 1 seeds: 5.70%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0771
+------
+Average Accuracy over 1 seeds: 7.71%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0728
+------
+Average Accuracy over 1 seeds: 7.28%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0728
+------
+Average Accuracy over 1 seeds: 7.28%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0728
+------
+Average Accuracy over 1 seeds: 7.28%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0728
+------
+Average Accuracy over 1 seeds: 7.28%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0689
+------
+Average Accuracy over 1 seeds: 6.89%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0689
+------
+Average Accuracy over 1 seeds: 6.89%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: nan
+------
+Average Accuracy over 1 seeds: nan%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: nan
+------
+Average Accuracy over 1 seeds: nan%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0175
+------
+Average Accuracy over 1 seeds: 1.75%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0704
+------
+Average Accuracy over 1 seeds: 7.04%
+=========
+Dataset: fewnerd | Shot: 1 | Seed: 0
+dect acc: 0.0537
+------
+Average Accuracy over 1 seeds: 5.37%
+=========

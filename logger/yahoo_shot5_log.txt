@@ -1,0 +1,5 @@
+Dataset: yahoo | Shot: 5 | Seed: 0
+dect acc: 0.2441
+------
+Average Accuracy over 1 seeds: 24.41%
+=========

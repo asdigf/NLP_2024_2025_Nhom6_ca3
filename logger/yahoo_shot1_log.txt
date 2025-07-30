@@ -1,0 +1,35 @@
+Dataset: yahoo | Shot: 1 | Seed: 0
+dect acc: 0.1533
+------
+Average Accuracy over 1 seeds: 15.33%
+=========
+Dataset: yahoo | Shot: 1 | Seed: 0
+dect acc: 0.3059
+------
+Average Accuracy over 1 seeds: 30.59%
+=========
+Dataset: yahoo | Shot: 1 | Seed: 0
+dect acc: 0.3059
+------
+Average Accuracy over 1 seeds: 30.59%
+=========
+Dataset: yahoo | Shot: 1 | Seed: 0
+dect acc: 0.2756
+------
+Average Accuracy over 1 seeds: 27.56%
+=========
+Dataset: yahoo | Shot: 1 | Seed: 0
+dect acc: 0.2359
+------
+Average Accuracy over 1 seeds: 23.59%
+=========
+Dataset: yahoo | Shot: 1 | Seed: 0
+dect acc: 0.3213
+------
+Average Accuracy over 1 seeds: 32.13%
+=========
+Dataset: yahoo | Shot: 1 | Seed: 0
+dect acc: 0.2616
+------
+Average Accuracy over 1 seeds: 26.16%
+=========

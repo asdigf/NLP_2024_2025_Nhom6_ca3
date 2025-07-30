@@ -1,0 +1,90 @@
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4851
+------
+Average Accuracy over 1 seeds: 48.51%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4862
+------
+Average Accuracy over 1 seeds: 48.62%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4862
+------
+Average Accuracy over 1 seeds: 48.62%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4851
+------
+Average Accuracy over 1 seeds: 48.51%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.5539
+------
+Average Accuracy over 1 seeds: 55.39%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.5539
+------
+Average Accuracy over 1 seeds: 55.39%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.5539
+------
+Average Accuracy over 1 seeds: 55.39%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4644
+------
+Average Accuracy over 1 seeds: 46.44%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4644
+------
+Average Accuracy over 1 seeds: 46.44%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.7947
+------
+Average Accuracy over 1 seeds: 79.47%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.7947
+------
+Average Accuracy over 1 seeds: 79.47%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.7947
+------
+Average Accuracy over 1 seeds: 79.47%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.7959
+------
+Average Accuracy over 1 seeds: 79.59%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4817
+------
+Average Accuracy over 1 seeds: 48.17%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4817
+------
+Average Accuracy over 1 seeds: 48.17%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.6261
+------
+Average Accuracy over 1 seeds: 62.61%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.4368
+------
+Average Accuracy over 1 seeds: 43.68%
+=========
+Dataset: sst2 | Shot: 1 | Seed: 0
+dect acc: 0.8161
+------
+Average Accuracy over 1 seeds: 81.61%
+=========

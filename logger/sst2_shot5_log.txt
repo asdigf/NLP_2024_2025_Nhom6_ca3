@@ -1,0 +1,15 @@
+Dataset: sst2 | Shot: 5 | Seed: 0
+dect acc: 0.4885
+------
+Average Accuracy over 1 seeds: 48.85%
+=========
+Dataset: sst2 | Shot: 5 | Seed: 0
+dect acc: 0.4885
+------
+Average Accuracy over 1 seeds: 48.85%
+=========
+Dataset: sst2 | Shot: 5 | Seed: 0
+dect acc: 0.4885
+------
+Average Accuracy over 1 seeds: 48.85%
+=========

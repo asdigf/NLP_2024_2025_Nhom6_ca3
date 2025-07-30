@@ -1,0 +1,10 @@
+Dataset: yelp | Shot: 1 | Seed: 0
+dect acc: 0.5221
+------
+Average Accuracy over 1 seeds: 52.21%
+=========
+Dataset: yelp | Shot: 1 | Seed: 0
+dect acc: 0.7136
+------
+Average Accuracy over 1 seeds: 71.36%
+=========

@@ -1,0 +1,1 @@
+có 10 dataset tất cả được tải trong file sh và py, nếu như có link dead hoặc dataset bị lỗi hãy tự tải theo đúng cấu trúc trong src/process_data.py

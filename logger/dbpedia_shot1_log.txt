@@ -1,0 +1,60 @@
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.6316
+------
+Average Accuracy over 1 seeds: 63.16%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.0714
+------
+Average Accuracy over 1 seeds: 7.14%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.0714
+------
+Average Accuracy over 1 seeds: 7.14%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.0714
+------
+Average Accuracy over 1 seeds: 7.14%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.3008
+------
+Average Accuracy over 1 seeds: 30.08%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.1040
+------
+Average Accuracy over 1 seeds: 10.40%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.0714
+------
+Average Accuracy over 1 seeds: 7.14%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.0666
+------
+Average Accuracy over 1 seeds: 6.66%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.7529
+------
+Average Accuracy over 1 seeds: 75.29%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.5653
+------
+Average Accuracy over 1 seeds: 56.53%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.7527
+------
+Average Accuracy over 1 seeds: 75.27%
+=========
+Dataset: dbpedia | Shot: 1 | Seed: 0
+dect acc: 0.6233
+------
+Average Accuracy over 1 seeds: 62.33%
+=========

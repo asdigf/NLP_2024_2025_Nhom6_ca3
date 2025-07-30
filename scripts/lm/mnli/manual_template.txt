@@ -1,0 +1,7 @@
+[
+    {"placeholder": "text_a"},
+    {"add_prefix_space": " ", "placeholder": "text_b"},
+    {"add_prefix_space": " ", "text": "Does the first sentence entail the second sentence? The answer is"},
+    {"add_prefix_space": " ", "meta": "label"},
+    {"add_prefix_space": "", "text": "."}
+]
